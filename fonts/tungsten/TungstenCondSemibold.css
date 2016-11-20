@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TungstenCondSemibold';
+    src: url('fonts/TungstenCondSemibold.eot');
+    src: url('fonts/TungstenCondSemibold.eot') format('embedded-opentype'),
+         url('fonts/TungstenCondSemibold.woff2') format('woff2'),
+         url('fonts/TungstenCondSemibold.woff') format('woff'),
+         url('fonts/TungstenCondSemibold.ttf') format('truetype'),
+         url('fonts/TungstenCondSemibold.svg#TungstenCondSemibold') format('svg');
+}

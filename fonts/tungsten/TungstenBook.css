@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TungstenBook';
+    src: url('fonts/TungstenBook.eot');
+    src: url('fonts/TungstenBook.eot') format('embedded-opentype'),
+         url('fonts/TungstenBook.woff2') format('woff2'),
+         url('fonts/TungstenBook.woff') format('woff'),
+         url('fonts/TungstenBook.ttf') format('truetype'),
+         url('fonts/TungstenBook.svg#TungstenBook') format('svg');
+}
